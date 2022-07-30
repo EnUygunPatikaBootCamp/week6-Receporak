@@ -1,0 +1,2 @@
+parameters:
+  superLeagueAPIURL: "https://api.lunayazilim.com/standings.json"
